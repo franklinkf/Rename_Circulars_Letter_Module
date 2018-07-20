@@ -1,0 +1,22 @@
+D:\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\bin\Debug\Rename Circulars.exe.config
+D:\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\bin\Debug\Rename Circulars.exe
+D:\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\bin\Debug\Rename Circulars.pdb
+D:\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\bin\Debug\Rename Circulars.xml
+D:\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\obj\Debug\Rename_Circulars.Resources.resources
+D:\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\obj\Debug\Rename Circulars.vbproj.GenerateResource.Cache
+D:\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\obj\Debug\Rename Circulars.exe
+D:\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\obj\Debug\Rename Circulars.xml
+D:\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\obj\Debug\Rename Circulars.pdb
+D:\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\obj\Debug\Rename Circulars.vbprojAssemblyReference.cache
+D:\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\obj\Debug\Rename Circulars.vbproj.CoreCompileInputs.cache
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\bin\Debug\Rename Circulars.exe.config
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\obj\Debug\Rename Circulars.exe
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\obj\Debug\Rename Circulars.xml
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\obj\Debug\Rename Circulars.pdb
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\bin\Debug\Rename Circulars.exe
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\bin\Debug\Rename Circulars.pdb
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\bin\Debug\Rename Circulars.xml
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\bin\Debug\MySql.Data.dll
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\obj\Debug\Rename Circulars.vbprojResolveAssemblyReference.cache
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\obj\Debug\Rename_Circulars.Resources.resources
+C:\Users\frank\OneDrive\cbs\Source Code\Visual Basic\Rename Circulars\Rename Circulars\obj\Debug\Rename Circulars.vbproj.GenerateResource.Cache
